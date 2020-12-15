@@ -7,5 +7,6 @@ This project was developed to help with the preservation of tigers and to study 
 
 ![Tiger](Images/Tiger.png)
 
+![Tiger](Images/Tiger Detected.png)
 
 ![Tiger SIFT](Images/SIFT.png)  ![Tiger Detection](Images/TigerPAT.png)
